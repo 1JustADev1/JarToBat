@@ -1,4 +1,5 @@
 # JarToBat
 jar, that lauching bat
 
-## Why? for fun.
+## Why? 
+for fun
